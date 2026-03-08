@@ -44,7 +44,7 @@ const HeroSection = () => {
             transition={{ delay: 0.55 }}
             className="text-muted-foreground font-body text-lg max-w-md mb-8 leading-relaxed"
           >
-            I design & build stunning portfolios, e-commerce stores, and websites that help brands stand out and sell more.
+            I design & build stunning portfolios, e-commerce stores, and payment-integrated websites that help brands stand out, sell more, and get paid seamlessly.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
