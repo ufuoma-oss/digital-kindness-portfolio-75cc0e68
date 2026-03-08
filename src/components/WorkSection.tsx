@@ -4,22 +4,22 @@ import { ExternalLink } from "lucide-react";
 const projects = [
   {
     title: "Fashion E-Commerce Store",
-    category: "Shopify",
+    category: "Shopify + Paystack",
     color: "from-primary/20 to-primary/5",
   },
   {
     title: "Creative Agency Portfolio",
-    category: "WordPress",
+    category: "React + TypeScript",
     color: "from-primary/15 to-primary/5",
   },
   {
     title: "Beauty Brand Website",
-    category: "Custom Build",
+    category: "Custom Build + Payments",
     color: "from-primary/20 to-primary/5",
   },
   {
     title: "Restaurant Bio & Menu Page",
-    category: "Bio Website",
+    category: "WordPress + Vite",
     color: "from-primary/15 to-primary/5",
   },
 ];

@@ -40,13 +40,13 @@ const AboutSection = () => {
           </h2>
           <p className="text-muted-foreground font-body leading-relaxed mb-4">
             I'm the founder of Digital Kindness — a creative studio focused on building beautiful, 
-            high-converting e-commerce stores and websites. I specialize in Shopify, WordPress, 
-            and custom web solutions that help businesses grow online.
+            high-converting e-commerce stores and modern websites. I work with Shopify, WordPress, 
+            React, TypeScript, and modern web technologies to help businesses grow and collect payments online.
           </p>
           <p className="text-muted-foreground font-body leading-relaxed mb-8">
-            With certifications in Social Media Management and Digital Marketing, I bring a 
-            holistic approach — combining stunning design with data-driven strategy to deliver 
-            results that matter.
+            With certifications in Social Media Management and Digital Marketing, plus deep expertise in 
+            payment integrations like Paystack and Flutterwave, I bring a holistic approach — combining 
+            stunning design with seamless functionality to deliver results that matter.
           </p>
 
           <div className="flex gap-8">
