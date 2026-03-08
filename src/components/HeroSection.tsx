@@ -5,7 +5,7 @@ import patternBg from "@/assets/pattern-bg.jpg";
 const HeroSection = () => {
   return (
     <section
-      className="relative min-h-screen flex items-center overflow-hidden"
+      className="relative min-h-screen flex items-center overflow-hidden max-w-[100vw]"
       style={{
         backgroundImage: `url(${patternBg})`,
         backgroundSize: "cover",
@@ -24,7 +24,7 @@ const HeroSection = () => {
             transition={{ delay: 0.2 }}
             className="text-sm font-body font-medium tracking-widest uppercase text-primary mb-4"
           >
-            E-Commerce & Web Specialist
+            E-Commerce · Web · Payments
           </motion.p>
           <motion.h1
             initial={{ opacity: 0, y: 30 }}
@@ -44,7 +44,7 @@ const HeroSection = () => {
             transition={{ delay: 0.55 }}
             className="text-muted-foreground font-body text-lg max-w-md mb-8 leading-relaxed"
           >
-            I design & build stunning portfolios, e-commerce stores, and websites that help brands stand out and sell more.
+            I design & build stunning portfolios, e-commerce stores, and payment-integrated websites that help brands stand out, sell more, and get paid seamlessly.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
