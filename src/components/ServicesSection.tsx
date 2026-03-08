@@ -1,36 +1,46 @@
 import { motion } from "framer-motion";
-import { ShoppingCart, Globe, Layout, Share2, Megaphone, Code } from "lucide-react";
+import { ShoppingCart, Globe, Layout, Share2, Megaphone, Code, CreditCard, Smartphone } from "lucide-react";
 
 const services = [
   {
     icon: ShoppingCart,
     title: "E-Commerce Stores",
-    desc: "Custom Shopify & WooCommerce stores built to maximize conversions and revenue.",
+    desc: "Custom online stores built to maximize conversions — Shopify, WooCommerce, or fully custom builds.",
   },
   {
     icon: Globe,
-    title: "Website Development",
-    desc: "Responsive, fast-loading websites that look incredible on every device.",
+    title: "Modern Web Development",
+    desc: "Fast, responsive websites using React, TypeScript, Vite, and other modern frameworks.",
   },
   {
     icon: Layout,
     title: "Portfolio & Bio Sites",
-    desc: "Personal branding pages that tell your story with elegance and clarity.",
+    desc: "Personal branding pages that tell your story with elegance, clarity, and impact.",
+  },
+  {
+    icon: CreditCard,
+    title: "Payment Integration",
+    desc: "Seamless Paystack, Flutterwave, and global payment gateway setup for instant transactions.",
   },
   {
     icon: Code,
     title: "Shopify & WordPress",
-    desc: "Expert integration, customization, and theme development for both platforms.",
+    desc: "Expert theme development, plugin integration, and full platform customization.",
+  },
+  {
+    icon: Smartphone,
+    title: "Paystack Storefront",
+    desc: "Launch a complete online shop with Paystack — product listings, checkout, and payment in one.",
   },
   {
     icon: Share2,
     title: "Social Media Management",
-    desc: "Certified strategies to grow your brand's presence and engagement online.",
+    desc: "Certified strategies to grow your brand's presence and engagement across all platforms.",
   },
   {
     icon: Megaphone,
     title: "Digital Marketing",
-    desc: "Data-driven campaigns that drive traffic, leads, and measurable growth.",
+    desc: "Data-driven campaigns that drive traffic, leads, and measurable business growth.",
   },
 ];
 
