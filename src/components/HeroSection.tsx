@@ -83,7 +83,7 @@ const HeroSection = () => {
               />
             </div>
             {/* Social icons below image */}
-            <div className="flex justify-center gap-4 mt-5">
+            <div className="relative z-10 flex justify-center gap-4 mt-5">
               <a
                 href="https://www.instagram.com/digitalkindness_?igsh=Y2prZ3hsaXI2M2l3"
                 target="_blank"
