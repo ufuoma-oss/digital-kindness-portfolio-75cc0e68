@@ -24,7 +24,7 @@ const HeroSection = () => {
             transition={{ delay: 0.2 }}
             className="text-sm font-body font-medium tracking-widest uppercase text-primary mb-4"
           >
-            E-Commerce & Web Specialist
+            E-Commerce · Web · Payments
           </motion.p>
           <motion.h1
             initial={{ opacity: 0, y: 30 }}
