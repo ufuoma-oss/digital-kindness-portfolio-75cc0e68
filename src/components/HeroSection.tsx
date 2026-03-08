@@ -5,7 +5,7 @@ import patternBg from "@/assets/pattern-bg.jpg";
 const HeroSection = () => {
   return (
     <section
-      className="relative min-h-screen flex items-center overflow-hidden"
+      className="relative min-h-screen flex items-center overflow-hidden max-w-[100vw]"
       style={{
         backgroundImage: `url(${patternBg})`,
         backgroundSize: "cover",
